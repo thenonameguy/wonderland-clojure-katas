@@ -18,9 +18,9 @@
   (let [word (last path)
         seen (into #{} path)]
     (->> dict
-         (filter (complement seen))
+         (remove seen)
          (filter (partial single-distance? word))
-         (map #(conj path %)))))
+         (map (partial conj path)))))
 
 (defn- expansions [dict word]
   (tree-seq (constantly true)
