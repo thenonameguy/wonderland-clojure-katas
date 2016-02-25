@@ -41,7 +41,7 @@ The goal is to have the plan in steps so that all make it safely to the other si
 
 ## Instructions
 
-- Clone of fork this repo
+- Clone or fork this repo
 - `cd fox-goose-bag-of-corn`
 - Run the tests with `lein test`
 - Make the tests pass!
@@ -49,6 +49,15 @@ The goal is to have the plan in steps so that all make it safely to the other si
 ## Solutions
 
 Once you have your kata solution, you are welcome to submit a link to your repo to share here in this section with others.
+
+* https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn
+* https://github.com/aaronj1335/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn
+* https://github.com/werand/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn
+* https://github.com/yzernik/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn
+* https://github.com/priort/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn
+* https://github.com/bradlucas/wonderland-clojure-katas/tree/fox-goose/fox-goose-bag-of-corn
+* https://github.com/davidpham87/wonderland-clojure-katas/tree/my-training/fox-goose-bag-of-corn
+* https://github.com/Rigo85/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn
 
 If you haven't solved your kata yet - Don't Peek!
 
@@ -58,4 +67,3 @@ Copyright © 2014 Carin Meier
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
-

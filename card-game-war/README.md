@@ -22,7 +22,7 @@ The rules of this card game are quite simple.
 
 ## Instructions
 
-- Clone of fork this repo
+- Clone or fork this repo
 - `cd card-game-war`
 - Run the tests with `lein test`
 - In this kata, you will be prompted to fill in your own tests.
@@ -32,9 +32,15 @@ The rules of this card game are quite simple.
 
 Once you have your kata solution, you are welcome to submit a link to your repo to share here in this section with others.
 
-https://github.com/aaronj1335/wonderland-clojure-katas/tree/master/card-game-war
-https://github.com/gensym/wonderland-clojure-katas/tree/card-game-war-solution/card-game-war
-
+* https://github.com/aaronj1335/wonderland-clojure-katas/tree/master/card-game-war
+* https://github.com/gensym/wonderland-clojure-katas/tree/card-game-war-solution/card-game-war
+* https://github.com/vincentjames501/wonderland-clojure-katas/tree/master/card-game-war
+* https://github.com/werand/wonderland-clojure-katas/tree/master/card-game-war
+* https://github.com/yzernik/wonderland-clojure-katas/tree/master/card-game-war
+* https://github.com/priort/wonderland-clojure-katas/tree/master/card-game-war
+* https://github.com/bradlucas/wonderland-clojure-katas/tree/card-game/card-game-war
+* https://github.com/harshita/wonderland-clojure-katas/tree/master/card-game-war
+* https://github.com/davidpham87/wonderland-clojure-katas/tree/my-training/card-game-war
 If you haven't solved your kata yet - Don't Peek!
 
 ## License
@@ -43,4 +49,3 @@ Copyright © 2014 Carin Meier
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
-
